@@ -15,6 +15,7 @@ The code file is circulated in advance, giving everyone interested in joining th
 During the meeting the most helpful comments, as chosen by the original code author, will be presented and discussed.
 
     *   [Presenting at Code Review](present/index.md)
+    
     *   [Reviewing at Code Review](review/index.md)
 
 ## Schedule {#schedule}
