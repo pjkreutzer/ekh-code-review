@@ -24,15 +24,24 @@ Other than in software engineering, your code will not be exclusively reviewed b
 Prepare for the possibility that people will review your code who have (much) less experience than you.
 See this as an opportunity to flex your skills and improve your understanding by explaining how it works to others.
 
-Similarity, keep in mind that the focus of the code review is on the software, not the project for which the software is written.
+Similarly, keep in mind that the focus of the code review is on the software, not the project for which the software is written.
 Unlike a research seminar, the theory, data quality etc are not the focus.
 You do not have to defend why you chose one estimation strategy over another, these reviews are all about the software implementation.
 Simply provide as much information about your research as needed for context.
 
+### Important
+
+Whatever you push to github will be available for the public and permanently become part of the repos history.
+Be sure that you do not expose sensitive information in the code such as credentials or GDPR protected data.
+
+In general, unless there is a really good reason, do not include your data in the submission.
+Code can and should be reviewed without needing your data. 
 ## How do I present my Code?
 
 Pull the example repo
+
 Add the code you want reviewed and fill in the README
+
 Name your repo with 
 ## How Will I Receive Feedback?
 
