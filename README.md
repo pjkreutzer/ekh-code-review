@@ -12,12 +12,13 @@ The handbook is overall an excellent source of inspiration to learn form best pr
 During each code review meeting we will talk about improvements which can be made to real life code written by people at the department.
 Each meeting is structured around one person's code.
 The code file is circulated in advance, giving everyone interested in joining the meeting the chance to review, comment and improve on the written code.
-During the meeting the most helpful comments, as chosen by the original code author, will be presented and discussed.
+During the meeting the most helpful comments, chosen by the original code author, will be presented and discussed.
 
-    *   [Presenting at Code Review](present/index.md)
-    
-    *   [Reviewing at Code Review](review/index.md)
+[Presenting at Code Review](present/index.md)
 
-## Schedule {#schedule}
+[Reviewing at Code Review](review/index.md)
+
+
+## Schedule
 
 The idea is to have a reoccurring meeting to review code.
