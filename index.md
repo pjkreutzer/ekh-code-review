@@ -1,3 +1,7 @@
+---
+title: Code Review
+nav_order: 1
+---
 ## What Is a Code Review?
 Code Reviews can help improve code and coding skills.
 Just like a paper can be better understood by discussing it in a group, code too can be improved by doing so.
