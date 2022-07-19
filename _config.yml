@@ -1,4 +1,8 @@
-title: Code Reviews at Lund's Economic History Department
-remote_theme: sighingnow/jekyll-gitbook
+title: EKH Code Reviews
+longtitle: Code Reviews at Lund's Economic History Department
+
+remote_theme: just-the-docs/just-the-docs
 toc:
     enabled: true
+    h_min: 1
+    h_max: 3
