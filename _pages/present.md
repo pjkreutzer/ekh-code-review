@@ -38,7 +38,12 @@ In general, unless there is a really good reason, do not include your data in th
 Code can and should be reviewed without needing your data. 
 ## How do I present my Code?
 
-Pull the example repo
+1. Pull the example repo.
+    You can do this in different ways, the easiest is by running this code in your command line:
+
+    ```
+    
+    ```
 
 Add the code you want reviewed and fill in the README
 

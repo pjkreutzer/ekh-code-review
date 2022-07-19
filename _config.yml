@@ -1,1 +1,4 @@
-remote_theme:     sighingnow/jekyll-gitbook
+title: Code Reviews at Lund's Economic History Department
+remote_theme: sighingnow/jekyll-gitbook
+toc:
+    enabled: true
